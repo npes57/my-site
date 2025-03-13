@@ -1,0 +1,17 @@
+.header-menu {
+    list-style-type: none;
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 30px;
+}
+
+.news-headers {
+    color: var(--color-blue-dark);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.news-heading {
+    margin-left: 20px;
+}   
