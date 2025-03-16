@@ -5,9 +5,20 @@ body {
 
 .page-title {
     color: var(--color-blue-dark);
-    font-size: 35px;
+    font-size: 30px;
     margin-left: 20px;
 }
+
+.page-subtitle {
+    color: var(--color-blue-dark);
+    font-size: 35px;
+    margin-left: 20px;
+    font-weight: 700px;
+}
+
+.news-title {
+    margin-left: 20px;
+}   
 
 .news-content {
     font-size: 20px;

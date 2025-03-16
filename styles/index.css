@@ -1,4 +1,5 @@
+@import url('global.css');
 @import url('variables.css');
 @import url('headers.css');
-@import url('global.css');
-@import url('buttons.css');
+
+@import url('ui/index.css');
