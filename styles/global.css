@@ -7,6 +7,8 @@ body {
     color: var(--color-blue-dark);
     font-size: 30px;
     margin-left: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .page-subtitle {
@@ -24,3 +26,18 @@ body {
     font-size: 20px;
     margin-left: 20px;
 }
+
+.about-content {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.about-image {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+

@@ -15,3 +15,10 @@
 .header-link:hover {
     color: var(--color-white);
 }
+
+.header-info {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 30px;
+}
