@@ -35,6 +35,17 @@ body {
     margin-right: 100px;
 }
 
+.about-link {
+    color: var(--color-blue);
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.about-link:hover {
+    color: var(--color-white);
+}
+
+
 .about-image {
     display: block;
     margin-left: auto; 
