@@ -1,0 +1,23 @@
+.about-content {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.about-image {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.about-link {
+    color: var(--color-blue);
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.about-link:hover {
+    color: var(--color-white);
+}

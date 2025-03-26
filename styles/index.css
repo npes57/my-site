@@ -1,6 +1,9 @@
 @import url('variables.css');
 @import url('global.css');
+
+@import url('ui/index.css');
+
 @import url('headers.css');
 @import url('footer.css');
 
-@import url('ui/index.css');
+@import url('about.css');
